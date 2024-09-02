@@ -17,4 +17,5 @@ pip freeze > requirements.txt
 - 패키지 재설치
 ```shell
 pip install -r requirements.txt
+
 ```
